@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+	font-family: 'Montserrat', sans-serif;
+	background-color: #DAD7D7
+}
+h1 {
+	font-size: 24pt;
+	background-color:#274ECC;
+  	padding: 20px;    
+}
+h2 {
+	font-size: 14pt;
+}
+h3 {
+	font-size: 12pt;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color:#FFFFFF;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+p {
+	font-size: 10pt;
+	border: medium;
+	width: 800px
+}
+ul {
+	font-size: 8pt;
+}
+ol {
+	font-size: 8pt;
+}
